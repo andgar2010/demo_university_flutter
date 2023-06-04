@@ -1,4 +1,4 @@
-# demo_tyba_andres_garcia
+# demo_university_flutter_andres_garcia
 
 A new Flutter project.
 
